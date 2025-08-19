@@ -36,8 +36,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](#)  
+- 📧 Email: sandeepojha028@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sandeep-ojha-185557317 
 
 ---
 
