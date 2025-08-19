@@ -25,7 +25,6 @@
 ## 📌 Future Projects (Coming Soon 🚀)
 - 🌟 Portfolio Website (to showcase my work)  
 - 🌟 E-commerce Web App (frontend + backend)  
-- 🌟 Python Automation Scripts  
 
 ---
 
